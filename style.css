@@ -1,0 +1,35 @@
+header span{
+    text-decoration: underline;
+    color: tomato;
+}
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    position: sticky;
+    top: 0px;
+    padding: 5px;
+}
+body{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(backimg.jpg);
+    background-repeat: no-repeat;
+     
+}
+section{
+    margin-top: 7rem;
+    margin-left: 60%;
+    padding: 5rem;
+    width: 350px;
+}
+section button{
+    background-color: black;
+    color: white;
+    padding: 10px;
+   margin-left: 100px;  
+}
+img{
+    margin-left: 2rem;
+    padding: 60px;
+}
